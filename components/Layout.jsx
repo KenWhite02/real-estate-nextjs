@@ -8,7 +8,9 @@ const Layout = ({ children }) => {
   return (
     <>
       <Head>
-        <title>Real Estate</title>
+        <title>Ken New State</title>
+        <meta name="description" content="Browse properties on Realtor!" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Box maxWidth={'1280px'} m={'auto'}>
